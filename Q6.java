@@ -19,5 +19,6 @@ public class Q6 {
             sum2 += arr[i][arr.length-1-i];
         }
         System.out.println(Math.abs(sum1-sum2));
+        sc.close();
     }
 }

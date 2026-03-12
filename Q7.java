@@ -17,5 +17,6 @@ public class Q7 {
         Scanner sc = new Scanner(System.in);
         // System.out.println(magic(sc.nextInt(),sc.nextInt()));
         System.out.println(69%3);
+        sc.close();
     }
 }

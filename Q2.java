@@ -1,4 +1,3 @@
-import java.util.Scanner;
 class Q2{
     public static int mint(int n, int l, int sum){
 

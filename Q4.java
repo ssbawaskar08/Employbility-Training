@@ -19,5 +19,6 @@ public class Q4 {
                 System.out.print(arr[i]+" ");
             }
         }
+        sc.close();
     }    
 }

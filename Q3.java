@@ -18,6 +18,7 @@ class Q3 {
             }
         }
         System.out.printf("Total estimate Cost : %.1f INR",total);
+        sc.close();
     }
 
 }
